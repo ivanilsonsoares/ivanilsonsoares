@@ -1,6 +1,6 @@
-# Hi Devs! I’m Ivanilso Soares <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
+# Hi Devs! I’m Ivanilson Soares <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
 
-Graduated in Information Systems, developer and enthusiast in UI / UX, Brazilian, I'm from a small town in the interior of Ceará.
+Graduated in Information Systems, front-end developer, a curious young man who likes to know new areas of technology, having an interest in UX and IU design, I'm from a city in the interior of Ceará, known as the city of faith
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ivanilsonsoares&show_icons=true&title_color=2c3e50&text_color=2c3e50&icon_color=2c3e50&bg_color=bdc3c7&cache_seconds=2300">
 
