@@ -1,7 +1,7 @@
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> Hi Devs! I’m Ivanilson Soares 
 
-<img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ivanilsonsoares&repo=evenilson&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ivanilsonsoares&repo=evenilson&countColorcountColor&countColor=%237B1E7B"/>
 
 Graduated in Information Systems, front-end developer, a curious young man who likes to know new areas of technology, having an interest in UX and IU design, I'm from a city in the interior of Ceará, known as the city of faith
 
