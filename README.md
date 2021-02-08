@@ -50,6 +50,7 @@ Graduated in Information Systems, front-end developer, a curious young man who l
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![Latex](http://img.shields.io/badge/-Latex-blue?style=flat-square&logo=latex&logoColor=ffff)
 
 
 
