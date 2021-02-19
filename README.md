@@ -56,7 +56,7 @@ Graduated in Information Systems, front-end developer, a curious young man who l
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanilson-s-a169aa119/)](https://www.linkedin.com/in/ivanilson-s-a169aa119/)[
 ![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ivanilson_._soares/)](https://www.instagram.com/ivanilson_._soares/)
-[![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ivanilson.soares.is@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ivanilson.soares.is@gmail.com)
 
 
 <!--
