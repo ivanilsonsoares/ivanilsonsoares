@@ -8,6 +8,7 @@ Graduated in Information Systems, front-end developer, a curious young man who l
  -   In search of challenges
  -   interest in design
  -   Entrepreneurial mind
+ -   Seeking knowledge about blockchain
 
 ## 
 
