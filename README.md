@@ -2,8 +2,7 @@
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> Hi Devs! I’m Ivanilso Soares
 
-
-Graduated in Information Systems, front-end developer, a curious young man who likes to know new areas of technology, having an interest in UX and IU design, I'm from a city in the interior of Ceará, known as the city of faith
+Graduated in Information Systems, front-end developer, curious young man who likes to discover new areas of technology, with an interest in DevOps, UX and UI design, I am from a city in the interior of Ceará, known as the city of faith
 
  -   In search of challenges
  -   interest in design
@@ -22,6 +21,7 @@ Graduated in Information Systems, front-end developer, a curious young man who l
 
 ## 🌱 I’m currently learning ...
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![.Net](https://img.shields.io/badge/-dotnet-rgb(151%20128%20229)??style=flat&logo=dotnet)
 
 ## ⚡ Languages and Tools 🛠
 
@@ -51,7 +51,7 @@ Graduated in Information Systems, front-end developer, a curious young man who l
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://pt-br.reactjs.org/)](https://pt-br.reactjs.org/)
 [![React Native Badge](https://img.shields.io/badge/-React%20Native-5667F9?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev/)](https://reactnative.dev/)
 [![Angular](https://img.shields.io/badge/-angular-rgb(217%2020%2020)?style=flat-square&logo=angular&logoColor=white&link=https://angular.io/)](https://angular.io/)
-
+[![Flutter](https://img.shields.io/badge/-flutter-rgb(26%20104%20211)?style=flat-square&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/)
 
 ## 📫 How to reach me:
 
