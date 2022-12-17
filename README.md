@@ -18,15 +18,9 @@ Graduated in Information Systems, front-end developer, a curious young man who l
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanilsonsoares&langs_count=10&theme=tokyonight&layout=compact" alt="ivanilso :: Top Langs" /></p>
 -->
 ##
-<img src="https://github-readme-stats.vercel.app/api?username=ivanilsonsoares&show_icons=true&title_color=2c3e5&text_color=2c3e5&icon_color=2c3e5&bg_color=00&cache_seconds=1300">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ivanilsonsoares&show_icons=true&title_color=2c3e5&text_color=2c3e5&icon_color=2c3e5&bg_color=00&cache_seconds=1300"> -->
 
 ## 🌱 I’m currently learning ...
-[![!JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)    ](https://www.w3schools.com/js/default.asp)
-[![!JavaScript Badge](https://img.shields.io/badge/-WordPress-blue?style=flat-square&logo=WordPress&logoColor=white&link=https://www.w3schools.com/js/default.asp)    ](https://www.w3schools.com/js/default.asp)
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-294E80?style=flat-square&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
-[![NodeJS Badge](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=NodeJS&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
-[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://pt-br.reactjs.org/)](https://pt-br.reactjs.org/)
-[![React Native Badge](https://img.shields.io/badge/-React%20Native-5667F9?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev/)](https://reactnative.dev/)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 ## ⚡ Languages and Tools 🛠
@@ -50,7 +44,13 @@ Graduated in Information Systems, front-end developer, a curious young man who l
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Latex](http://img.shields.io/badge/-Latex-blue?style=flat-square&logo=latex&logoColor=ffff)
-
+[![!JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)    ](https://www.w3schools.com/js/default.asp)
+[![!JavaScript Badge](https://img.shields.io/badge/-WordPress-blue?style=flat-square&logo=WordPress&logoColor=white&link=https://www.w3schools.com/js/default.asp)    ](https://www.w3schools.com/js/default.asp)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-294E80?style=flat-square&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+[![NodeJS Badge](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=NodeJS&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://pt-br.reactjs.org/)](https://pt-br.reactjs.org/)
+[![React Native Badge](https://img.shields.io/badge/-React%20Native-5667F9?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev/)](https://reactnative.dev/)
+[![Angular](https://img.shields.io/badge/-angular-rgb(217%2020%2020)?style=flat-square&logo=angular&logoColor=white&link=https://angular.io/)](https://angular.io/)
 
 
 ## 📫 How to reach me:
