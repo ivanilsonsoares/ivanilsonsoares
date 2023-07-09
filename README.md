@@ -8,6 +8,7 @@ Graduated in Information Systems, front-end developer, curious young man who lik
  -   interest in design
  -   Entrepreneurial mind
  -   Seeking knowledge about blockchain
+ -   More at [ivanilsonsoares.dev](https://ivanilsonsoares.github.io/ivanilsosoares.dev)
 
 ## 
 
