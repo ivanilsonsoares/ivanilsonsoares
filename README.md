@@ -60,6 +60,8 @@ Graduated in Information Systems, front-end developer, curious young man who lik
 ![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ivanilson_._soares/)](https://www.instagram.com/ivanilson_._soares/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ivanilson.soares.is@gmail.com)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanilsonsoares&color=blue" alt="Profile views" /> </p>
+
 
 <!--
 **ivanilsonsoares/ivanilsonsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
